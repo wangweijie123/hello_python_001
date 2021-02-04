@@ -1,0 +1,7 @@
+report
+.idea
+.pytest_cache
+allure-result
+allure-report
+__pycache__
+.DS_Store 
